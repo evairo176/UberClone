@@ -13,7 +13,7 @@ export default index;
 
 const styles = StyleSheet.create({
   container: {
-    height: 300,
+    height: 200,
     backgroundColor: 'grey',
   },
 });
